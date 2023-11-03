@@ -2,9 +2,7 @@ import java.text.NumberFormat;
 import java.util.Locale;
 import java.util.Scanner;
 
-import static java.util.Locale.*;
-
-public class Solution1 {
+public class CurrencyConverter {
 
 
 //public static final NumberFormat getCurrencyInstance()
